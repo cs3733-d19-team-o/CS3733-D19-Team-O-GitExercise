@@ -13,7 +13,7 @@ public final class Main {
       System.out.println("Dev Patel");
       System.out.println("Jyan");
       System.out.println("Amelia");
-      System.out.println("Sam test");
+      System.out.println("Sam");
       System.out.println("Peter Prygocki");
       System.out.println("Jack Yang");
   }
