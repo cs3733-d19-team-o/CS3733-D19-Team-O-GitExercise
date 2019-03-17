@@ -15,6 +15,10 @@ public final class Main {
       System.out.println("Amelia");
       System.out.println("Sam");
 
+      printBranchName();
+  }
+
+  private static void printBranchName() {
       System.out.println("Branch - ken");
   }
 }
