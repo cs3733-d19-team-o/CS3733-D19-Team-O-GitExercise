@@ -15,5 +15,6 @@ public final class Main {
       System.out.println("Amelia");
       System.out.println("Sam");
       System.out.println("Peter Prygocki");
+      System.out.println("Test");
   }
 }
