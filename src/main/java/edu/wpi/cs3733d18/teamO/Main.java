@@ -19,5 +19,10 @@ public final class Main {
       System.out.println("Lynn Song");
       System.out.println("Alex");
       System.out.println("DevBranch");
+      printDev();
+  }
+
+  private static void printDev() {
+      System.out.println("Dev Branch");
   }
 }
