@@ -1,5 +1,8 @@
 package edu.wpi.cs3733d18.teamO;
 
+
+
+
 public final class Main {
 
   private Main() {
@@ -17,4 +20,8 @@ public final class Main {
       System.out.println("Peter Prygocki");
       System.out.println("Jack Yang");
   }
+
+    public static void BranchJack(){
+        System.out.println("Branch – Jack Yang");
+    }
 }
