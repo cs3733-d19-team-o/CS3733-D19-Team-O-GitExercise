@@ -21,6 +21,7 @@ public final class Main {
       printBranchName();
       branchPeter();
       BranchJack();
+      printDev();
   }
 
     public static void branchPeter() {
