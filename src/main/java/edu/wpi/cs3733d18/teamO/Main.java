@@ -20,11 +20,12 @@ public final class Main {
 
       printBranchName();
       branchPeter();
+      BranchJack();
   }
   }
 
   public static void branchPeter() {
-      System.out.println("Branch Peter");
+      System.out.println("Branch - Peter");
   }
 
   private static void printBranchName() {
