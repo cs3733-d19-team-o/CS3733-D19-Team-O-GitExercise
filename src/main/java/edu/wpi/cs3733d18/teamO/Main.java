@@ -21,7 +21,7 @@ public final class Main {
       printDev();
   }
 
-  public static void printDev() {
+  private static void printDev() {
       System.out.println("Dev Branch");
   }
 }
