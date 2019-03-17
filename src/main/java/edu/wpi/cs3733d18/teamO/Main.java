@@ -17,6 +17,6 @@ public final class Main {
       System.out.println("Peter Prygocki");
       System.out.println("Jack Yang");
       System.out.println("Lynn Song");
-      System.out.println("Dev Branch");
+      System.out.println("DevBranch");
   }
 }
