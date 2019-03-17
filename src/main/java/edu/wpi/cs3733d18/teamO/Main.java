@@ -1,5 +1,8 @@
 package edu.wpi.cs3733d18.teamO;
 
+
+
+
 public final class Main {
 
   private Main() {
@@ -21,4 +24,8 @@ public final class Main {
   private static void printBranchName() {
       System.out.println("Branch - ken");
   }
+
+    public static void BranchJack(){
+        System.out.println("Branch – Jack Yang");
+    }
 }
