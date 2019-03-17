@@ -16,9 +16,17 @@ public final class Main {
       System.out.println("Dev Patel");
       System.out.println("Jyan");
       System.out.println("Amelia");
-      System.out.println("Sam");
+      System.out.println("Peter Prygocki");
+      System.out.println("Jack Yang");
+      System.out.println("Lynn Song");
+      System.out.println("Alex");
 
       printBranchName();
+      branchPeter();
+  }
+
+  public static void branchPeter() {
+      System.out.println("Branch Peter");
   }
 
   private static void printBranchName() {
