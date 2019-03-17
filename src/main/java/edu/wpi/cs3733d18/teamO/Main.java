@@ -23,6 +23,6 @@ public final class Main {
   }
 
   private static void printDev() {
-      System.out.println("Dev Branch");
+      System.out.println("DevBranch");
   }
 }
