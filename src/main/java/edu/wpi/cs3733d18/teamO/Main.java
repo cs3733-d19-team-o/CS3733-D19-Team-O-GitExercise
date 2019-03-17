@@ -14,15 +14,11 @@ public final class Main {
       System.out.println("Jyan");
       System.out.println("Amelia");
       System.out.println("Sam");
-      System.out.println("Peter Prygocki");
-      System.out.println("Jack Yang");
-      System.out.println("Lynn Song");
-      System.out.println("Alex");
-      System.out.println("DevBranch");
-      printDev();
+
+      printBranchName();
   }
 
-  private static void printDev() {
-      System.out.println("DevBranch");
+  private static void printBranchName() {
+      System.out.println("Branch - ken");
   }
 }
