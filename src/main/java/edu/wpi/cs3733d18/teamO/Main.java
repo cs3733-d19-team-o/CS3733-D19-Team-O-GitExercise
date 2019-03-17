@@ -1,13 +1,10 @@
 package edu.wpi.cs3733d18.teamO;
 
-
-
-
 public final class Main {
 
-  private Main() {
+    private Main() {
 
-  }
+    }
 
   public static void main(String... args) {
       System.out.println("Austin");
@@ -24,6 +21,7 @@ public final class Main {
       printBranchName();
       branchPeter();
   }
+  }
 
   public static void branchPeter() {
       System.out.println("Branch Peter");
@@ -37,3 +35,6 @@ public final class Main {
         System.out.println("Branch – Jack Yang");
     }
 }
+    private static void printDev() {
+        System.out.println("BranchDev");
+    }
