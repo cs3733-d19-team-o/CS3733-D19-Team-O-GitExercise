@@ -22,20 +22,20 @@ public final class Main {
       branchPeter();
       BranchJack();
   }
-  }
 
-  public static void branchPeter() {
-      System.out.println("Branch - Peter");
-  }
+    public static void branchPeter() {
+        System.out.println("Branch Peter");
+    }
 
-  private static void printBranchName() {
-      System.out.println("Branch - ken");
-  }
+    private static void printBranchName() {
+        System.out.println("Branch - ken");
+    }
 
-    public static void BranchJack(){
+    public static void BranchJack() {
         System.out.println("Branch – Jack Yang");
     }
-}
+
     private static void printDev() {
         System.out.println("BranchDev");
     }
+}
