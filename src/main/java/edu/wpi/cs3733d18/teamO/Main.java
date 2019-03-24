@@ -60,6 +60,9 @@ public final class Main {
     public static void printLynn() {
         System.out.println("Lynn");
     }
+    private static void printAmelia() {
+        System.out.println("Amelia's Branch");
+    }
 
     private static void printKenTutorial() {
         System.out.println("my name is ken");
