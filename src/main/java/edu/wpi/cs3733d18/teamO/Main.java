@@ -40,4 +40,8 @@ public final class Main {
     private static void printDev() {
         System.out.println("BranchDev");
     }
+
+    public static void printLynn(){
+        System.out.println("Lynn");
+    }
 }
