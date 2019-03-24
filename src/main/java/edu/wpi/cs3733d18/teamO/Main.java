@@ -29,6 +29,10 @@ public final class Main {
         System.out.println("Branch Sam");
     }
 
+  public static void printAustin() {
+      System.out.println("Austin!!!!!!");
+  }
+
     public static void branchPeter() {
         System.out.println("Branch Peter");
     }
