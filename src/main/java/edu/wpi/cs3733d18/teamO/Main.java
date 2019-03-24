@@ -60,6 +60,7 @@ public final class Main {
     public static void printLynn() {
         System.out.println("Lynn");
     }
+<<<<<<< HEAD
     private static void printAmelia() {
         System.out.println("Amelia's Branch");
     }
@@ -70,5 +71,10 @@ public final class Main {
 
     public static void printtDev() {
         System.out.println("Devvvvvvvvvvvvv");
+=======
+
+    private static void printAmelia() {
+        System.out.println("Amelia's Branch");
+>>>>>>> Amelia's commit (removed files)
     }
 }
