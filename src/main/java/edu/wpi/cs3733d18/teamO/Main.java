@@ -57,7 +57,7 @@ public final class Main {
         System.out.println("BranchDev");
     }
 
-    public static void printLynn(){
+    public static void printLynn() {
         System.out.println("Lynn");
     }
 
@@ -65,4 +65,7 @@ public final class Main {
         System.out.println("my name is ken");
     }
 
+    public static void printtDev() {
+        System.out.println("Devvvvvvvvvvvvv");
+    }
 }
