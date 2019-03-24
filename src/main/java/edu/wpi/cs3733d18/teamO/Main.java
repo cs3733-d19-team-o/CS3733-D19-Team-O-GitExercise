@@ -31,7 +31,11 @@ public final class Main {
 
     public static void branchPeter() {
         System.out.println("Branch Peter");
+    public static void printAlex() {
+        System.out.println("Alexandria Nogueras");
     }
+
+
 
     private static void printBranchName() {
         System.out.println("Branch - ken");
