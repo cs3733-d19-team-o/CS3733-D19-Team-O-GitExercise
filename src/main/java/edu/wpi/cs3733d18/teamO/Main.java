@@ -49,7 +49,12 @@ public final class Main {
         System.out.println("BranchDev");
     }
 
+<<<<<<< HEAD
     public static void printLynn(){
         System.out.println("Lynn");
+=======
+    private static void printAmelia() {
+        System.out.println("Amelia's Branch");
+>>>>>>> Amelia's commit
     }
 }
