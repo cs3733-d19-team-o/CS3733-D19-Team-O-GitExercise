@@ -61,6 +61,7 @@ public final class Main {
         System.out.println("Lynn");
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
     private static void printAmelia() {
         System.out.println("Amelia's Branch");
     }
@@ -76,5 +77,10 @@ public final class Main {
     private static void printAmelia() {
         System.out.println("Amelia's Branch");
 >>>>>>> Amelia's commit (removed files)
+=======
+
+    private static void printAmelia() {
+        System.out.println("Amelia's Branch");
+>>>>>>> 30cf35b277de3e562cdae612343a29d524ab36af
     }
 }
