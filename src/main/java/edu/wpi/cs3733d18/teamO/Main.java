@@ -61,11 +61,19 @@ public final class Main {
         System.out.println("Lynn");
     }
 
+    private static void printAmelia() {
+        System.out.println("Amelia's Branch");
+    }
+
     private static void printKenTutorial() {
         System.out.println("my name is ken");
     }
 
     public static void printtDev() {
         System.out.println("Devvvvvvvvvvvvv");
+    }
+
+    private static void printAmelia() {
+        System.out.println("Amelia's Branch");
     }
 }
