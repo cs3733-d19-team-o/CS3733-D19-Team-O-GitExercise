@@ -35,6 +35,7 @@ public final class Main {
 
     public static void branchPeter() {
         System.out.println("Branch Peter");
+    }
     public static void printAlex() {
         System.out.println("Alexandria Nogueras");
     }
@@ -73,7 +74,7 @@ public final class Main {
         System.out.println("Devvvvvvvvvvvvv");
     }
 
-    private static void printAmelia() {
+    private static void printAmelia2() {
         System.out.println("Amelia's Branch");
     }
 }
